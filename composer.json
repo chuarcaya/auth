@@ -1,0 +1,12 @@
+{
+    "name": "ecommerce/auth",
+    "description": "auth package",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "chuarcaya@inventarte.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}  
+}
