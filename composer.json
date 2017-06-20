@@ -8,6 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
+    "license": "mit",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
